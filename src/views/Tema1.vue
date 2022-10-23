@@ -1,18 +1,30 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Titulo de primer nivel
-      
+      h1 Control del servicio 
+
+
+    Separador
+    #t_1_1.titulo-segundo.color-acento-contenido
+      h2 1.1 Calidad en el servicio
+
+    Separador
+    #t_1_2.titulo-segundo.color-acento-contenido
+      h2 1.2   La gestión y aseguramiento de estándares
+    
+    Separador
+    #t_1_3.titulo-segundo.color-acento-contenido
+      h2 1.3  Sistema de gestión
+
 </template>
 
 <script>
 export default {
   name: 'Tema1',
-  components: {},
   data: () => ({
     // variables de vue
   }),

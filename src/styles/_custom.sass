@@ -2,13 +2,25 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 45%
+    right: 80%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 0%
+    right: 0%
+  &-3
+    animation: float1 3.0s ease-in-out infinite alternate
+    position: absolute
+    top: 70%
+    right: 75%
+    width: 111px
+  &-4
+    animation: float1 2.3s ease-in-out infinite alternate
+    position: absolute
+    top: 75%
+    right: 50%
+    width: 111px
 
 
 @keyframes float1
@@ -17,3 +29,28 @@
 
   100%
     transform: translateY(0px)
+
+
+iframe
+  border-radius: 10px
+
+figcaption
+  margin-top: 15px
+  font-size: 13px !important
+  background-color: #e8e8e8 !important
+  font-weight: normal !important
+
+.titulo-sexto
+  border-left: 5px solid
+  padding: 8px 0 8px 15px;
+  p
+    &.titulo
+      font-size: 14px !important
+      margin-bottom: 0px
+  &.color-acento-contenido
+    border-left-color: #eb6f2d
+
+.titulo-principal__numero
+  span
+    i
+      color: $white
