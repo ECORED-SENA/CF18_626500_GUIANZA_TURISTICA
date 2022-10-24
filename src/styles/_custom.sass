@@ -50,10 +50,16 @@ figcaption
   &.color-acento-contenido
     border-left-color: #EB6F2D
 
-.titulo-principal__numero
+.titulo-principal__numero  
   span
-    i
-      color: $white
+    *
+      color: $white !important
+
+.titulo-principal.color-acento-contenido
+  .titulo-principal__numero 
+    span
+      color: $white !important
+
 
 .cajon.color-primario
   background-color: #ffd667
@@ -66,6 +72,14 @@ figcaption
     width: 25px
   .linea
     border-bottom: 1px solid #DC753F
+
+.acordion__activo
+  background-color: #fff0c6
+
+
+  
+   
+
 
 .tema1
   .fondo1
@@ -121,4 +135,60 @@ figcaption
       background-repeat: no-repeat
   .tarjeta1
     border-radius: 44px
+    background-color: #ffe6a1
+
+.tema2
+  .fondo1
+    position: relative
+    padding-bottom: 1rem
+    p, div,img, span
+      position: relative
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema2/fondo1.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+  .fondo2
+      background-image: url("../assets/curso/tema2/fondo2.png")    
+      background-size: 100% 100%
+      background-repeat: no-repeat
+  .fondo3
+    position: relative
+    padding-bottom: 1rem
+    p, div,img, span
+      position: relative
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema2/fondo3.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+  .fondo4
+    background-image: url("../assets/curso/tema2/fondo4.png")
+    background-size: 100% 100%
+      background-repeat: no-repeat
+
+  .tarjeta1
+    border-radius: 20px
+    background-color: #fae7cf
+
+  .tarjeta2
+    border-radius: 19px
+    background-color: #b7c9b2
+
+  .tarjeta3
+    border-radius: 26px
     background-color: #ffe6a1
