@@ -256,7 +256,7 @@
 
     p.mb-5 Los tipos de indicadores están relacionados con la posibilidad de contar con un referente significativo que determina a qué grado o nivel se está cerca a la meta.  Dependiendo de su aplicación o uso, pueden ser:
 
-    .row.justify-content-center.mb-0
+    .row.justify-content-center.mb-5
       .col-lg-4.col-10.d-flex
         .tarjeta3.w-100.py-3.px-3
           div.d-flex.justify-content-center
@@ -277,14 +277,320 @@
           p.mb-lg-0.mb-3 Medición del impacto en el individuo, cambio de percepción, elementos nuevos de conocimiento, gratitud y satisfacción. 
       
 
+    .row.justify-content-center.mb-5
+      .col-lg-5.col-8
+        img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img26.png")
+      .col-lg-5.col-12
+        p.mb-2 Entre los diferentes tipos de indicadores y los aspectos a medir, se focalizan los aspectos más relevantes, que incluyen:
+        ul.lista-ul--color.mb-0
+          li.mb-0
+            i.fas.fa-location-arrow
+            .p-0 Objetivos.
+          li.mb-0
+            i.fas.fa-location-arrow
+            .p-0 Metas.
+          li.mb-0
+            i.fas.fa-location-arrow
+            .p-0 Responsable.
+          li.mb-0
+            i.fas.fa-location-arrow
+            .p-0 Fórmula
+          li.mb-0
+            i.fas.fa-location-arrow
+            .p-0 Descripción.
+          li.mb-0
+            i.fas.fa-location-arrow
+            .p-0 Periodicidad, entre otros.
+
+    p.mb-5 Los indicadores se usan en general de forma organizada y sistemática en instrumentos, algunos de estos son:
+    
+    SlyderF.mb-5(columnas="col-12 col-lg-6" data-aos="fade-left")
+      .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
+        p.mb-0 <b>Encuestas:</b> técnica que pregunta sobre intereses, tener en cuenta que, si es amplia, con muchos puntos a resolver, son poco atractivas y tienen tasas de respuesta y de finalización bajas. 
+      .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
+        p.mb-0 <b>SERVQUAL:</b>  A través de una encuesta se pide a los clientes que califiquen el servicio entregado en comparación con sus expectativas. Es real, pero puede presentar una distancia muy amplia entre el cliente y el servicio. 
+      .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
+        p.mb-0 Compras misteriosas: es una técnica popular que se usa en tiendas, hoteles y restaurantes, pero que también funciona para cualquier otro servicio. Consiste en contratar a un "cliente encubierto" para que pruebe la calidad de tu servicio.
+      .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
+        p.mb-0 Calificación posterior al servicio: esta es la práctica de pedir a los clientes que califiquen el servicio inmediatamente después de su entrega.
+      .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
+        p.mb-0 Encuesta de seguimiento: con este método se solicita a clientes que evalúen la calidad del servicio a través de una encuesta por correo electrónico, por ejemplo, a través de Google Forms. Tiene algunas ventajas sobre la valoración posterior al servicio.  Por un lado, le da tiempo y espacio suficiente al cliente para dar respuestas más detalladas y por otra se recoge la información organizada. La Encuesta de seguimiento también proporciona una visión holística del servicio. En lugar de una evaluación caso por caso, mide la opinión general de los clientes sobre el servicio prestado.
+      .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
+        p.mb-0 Encuesta en App:  con una encuesta en App, las preguntas se hacen mientras el visitante está en la aplicación o en el sitio web, en lugar de después del servicio o por correo electrónico. Puede ser una simple pregunta, por ejemplo, ¿cómo calificaría usted nuestro servicio?, pero también pueden ser más de acuerdo con las necesidades. 
+      .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
+        p.mb-0 Puntuación del esfuerzo del cliente (Customer Effort Score, CES): mide la facilidad de una experiencia del cliente con una marca, medir esto es lo que tiene mayor impacto positivo en la experiencia del cliente, según los creadores.  No preguntar: "¿Qué tan satisfecho estás con este servicio?" La respuesta podría resultar distorsionada por varios factores, como, por ejemplo, la cortesía. Pregunta: "¿Cuánto esfuerzo te costó resolver tus preguntas?", esto puede evaluar la probabilidad de que los usuarios del servicio persigan usar y comprar sus productos o servicios de forma reiterativa.  
+      .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
+        p.mb-0 Monitoreo de redes sociales: el método ha tomado impulso por el auge de las redes sociales debido a que las personas encuentran que este medio sirve como comunicación y donde pueden expresar si restricción sus frustraciones y ser escuchados.  
+      .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
+        p.mb-0 Métricas de servicio objetivas: son estadísticas con análisis objetivo y cuantitativo del servicio. Se reconoce que no son suficientes para juzgar la calidad del servicio por sí mismas, pero juegan un papel crucial en mostrar las áreas en las que se debe mejorar. (Opzeeland P. 2021)
+      .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
+        p.mb-0 Análisis de la documentación: en este enfoque cualitativo se recopilan los registros de servicio escritos o grabados. Se revisa la documentación de los servicios de baja calidad, con las respectivas observaciones; en este método, es interesante leer la documentación de los prestadores de servicio que siempre se destacan. ¿Qué hacen ellos mejor que los demás? Esto ayuda como buenas prácticas.
+    
+    p.mb-5 La aplicación de los instrumentos de medición en la guianza está centrada en los tres momentos, como se muestra en la siguiente tabla 1:      
+    
+    .row.justify-content-center.mb-5
+      .col-lg-10.col-12
+        .titulo-sexto.color-acento-contenido(data-aos="fade-left")
+          p.titulo <b>Tabla 1</b> <i>Manejo de instrumentos de medición según el momento de la operación</i> 
+        .tabla-a.mb-0
+          table            
+            thead(style="border-top: 0px solid;")
+              tr.cabecara-tabla
+                th.text-white Momento
+                th.text-white Categorías                
+                
+            tbody
+              tr                
+                td <b>Antes</b>
+                td Se realiza el diseño del instrumento.  Si este documento ya fue creado, entonces, el paso a seguir es el alistamiento de este.
+              tr                
+                td <b>Durante</b>
+                td Es el momento en el que se aplica el instrumento, por lo general es aplicado después de hacer el cierre de la actividad.
+              tr                
+                td <b>Después</b>
+                td Se hace la tabulación del instrumento y se analiza la información para la elaboración del informe.
+
+    p.text-center.mb-5 Para el diseño de instrumentos de evaluación del servicio, se debe tener en cuenta los siguientes pasos:
+
+    .row.justify-content-center.mb-5
+      .col-lg-4.col-12.d-flex
+        div.mb-lg-0.mb-3(style="border-radius:32px; background-color:#ffe6a1")
+          img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img27.png")
+          div.px-3.py-2
+            p.mb-0 Determinar el momento de realizar la evaluación.
+      .col-lg-4.col-12.d-flex
+        div(style="border-radius:32px; background-color:#ffe6a1")
+          img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img28.png")
+          div.px-3.py-2
+            p.mb-0 Precisar qué tipo de instrumento se puede aplicar; estructurar y validar el instrumento.  
+
+    .row.justify-content-center.mb-5
+      .col-lg-6.col-8
+        img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img29.png")
+      .col-lg-6.col-12
+        p.mb-4 Para el caso de la Guianza Turística, lo más recomendable es emplear las escalas Likert de tres o cinco opciones de respuestas, debido a que permiten analizar percepciones de los turistas con relación a los servicios turísticos. A continuación, se exponen los elementos que debe tener un formato de las escalas tipo Likert:
+        ul.lista-ul--color.mb-0
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Escribir un encabezado institucional o de la empresa que presta el servicio.
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Redactar un breve saludo y agradezca por la participación de la actividad.
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Escribir las instrucciones de diligenciamiento en donde las personas marquen en la casilla con una X
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Establecer los ítems de evaluación, por ejemplo: la divulgación del evento, presentación personal, metodología o los que usted cree pertinente.
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Las opciones de respuesta deben ser únicamente 3 o 5.  
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Se debe responder seleccionando uno de cinco respuestas posibles, las cuales pueden variar en su formulación, pero generalmente son las siguientes: totalmente de acuerdo. De acuerdo. Neutral.
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Dejar un espacio para recomendaciones.
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Agradecimientos.
+          li.mb-0
+            i.fas.fa-location-arrow
+            .p-0 Firma.
+    p.mb-0 Estos formatos pueden presentarse en papel o en la web configurando una plantilla para extraer los datos de dicha medición y hacer un reporte de manera ágil y certera. 
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido
       h2 2.2   Autoevaluación 
-    
+
+    p.mb-4 Dentro de las herramientas para prestar un mejor servicio guiado, está:
+    .row.justify-content-center.mb-5
+      .col-lg-6.col-12.p-4(style="background-color: #f3f9ff")
+        p.mb-4 <b>La autoevaluación</b>
+        p.mb-4 Hace referencia al ejercicio mediante el cual la organización o empresa, diseña un instrumento para que el guía de turismo se compare frente a un modelo de excelencia e identificar los puntos fuertes y áreas a mejorar con relación al referente previamente determinado.  Esto le permite establecer las acciones de mejora necesarias en aquellas áreas que lo necesitan y posteriormente hacer el seguimiento del progreso alcanzado.
+        p.mb-4 Para que la autoevaluación aporte valor al guía de turismo, debe hacerse de modo sistemático, es decir analizando el desempeño en todas las áreas del servicio, dependiendo de la forma de trabajo del guía, la madurez del proceso hacia la excelencia, los esfuerzos que se desea invertir y los beneficios que espera alcanzar, y puede ser a través de:
+        ul.lista-ul--color.mb-lg-0.mb-3
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Una lista de verificación.
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Un formulario.
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Un cuestionario.
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Una matriz.
+          li.mb-0
+            i.fas.fa-location-arrow
+            .p-0 Una combinación de todas.
+      .col-lg-6.col-8
+        img.mb-0(src="@/assets/curso/tema2/img30.svg")
+
+    .cajon.color-primario.p-4.mb-0
+      p.mb-4 No hay una única forma de realizar la autoevaluación, lo realmente importante es construir la herramienta antes de poner en marcha el servicio guiado. Es muy importante se evalúen los mismos aspectos, aunque la metodología varíe. 
+      p.mb-0 Los hallazgos en el proceso de autoevaluación, se debe materializar en una serie de proyectos de mejora, que incluya recursos y un calendario para la implementación de las acciones. El examen de progreso podrá realizarse siguiendo el calendario o realizando una nueva autoevaluación y viéndola evolución de las puntuaciones obtenidas. (Membrado Martínez, J., 2013).
+
     Separador
     #t_2_3.titulo-segundo.color-acento-contenido
       h2 2.3   Interpretación y presentación de datos 
 
+    .row.justify-content-center.mb-5
+      .col-lg-6.col-12
+        p.mb-4 La tabulación es una forma de organización de la información estadística recopilada de la evaluación del servicio; es una expresión usada para presentar una serie de valores, magnitudes y conceptos para ser analizados posteriormente.  La estadística es una ciencia que se encarga de manejar datos numéricos para el cálculo de probabilidades, basados en estudios que reúnen, clasifica y recuenta situaciones que se convierten en un número para sacar conclusiones. 
+        p.mb-4 Para que estos números tengan sentido se presentan combinando texto, tablas, gráficas, mapas, cumpliendo con cuatros aspectos:  
+        ul.lista-ul--color.mb-lg-0.mb-3
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Introducción.
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Descripción del método usado para recolección de la información.
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Descripción de los resultados obtenidos.
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Conclusión a manera de cierre las cuales son tenidas en cuenta para la toma de decisiones.
+      .col-lg-6.col-8
+        img.mb-0(src="@/assets/curso/tema2/img31.png")
+    
+    p.mb-4 La presentación de los resultados debe ser comprensible para los lectores e interesados, y se realiza de tres formas:
+
+    .row.justify-content-center.mb-5
+      .col-lg-6.col-12
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+          div(titulo="Textual")
+            p.mb-0 Es la tradicional relacionada con los informes, se aconseja a que se presente lo estrictamente necesario con una secuencia lógica sin incurrir en repeticiones, citando las tablas como referencia y sustento a la descripción.
+          div(titulo="Tabular (cuadro estadístico)")
+            p.mb-4 Son los datos organizados recopilados técnicamente y dispuestos de acuerdo con las categorías definidas previamente.
+            p.mb-0 Aunque generalmente son de un gran tamaño, la acción con ellos es sintetizarlos para mostrarlos de acuerdo con el interés de quien los recopila; los datos muestran la frecuencia, relaciones, contrastes, variaciones y tendencias presentándolos sistemáticamente y agrupados, utilizando tablas que son auto explicativas, es decir que el lector no acuda al texto para conocer de qué trata. 
+          div(titulo="Gráfica")
+            p.mb-0 Un tipo de representación de datos, generalmente cuantitativos, mediante recursos visuales (líneas, vectores, superficies o símbolos), para que se manifieste visualmente la relación matemática o correlación estadística que guardan entre sí.
+      .col-lg-6.col-8
+        img.mb-0(src="@/assets/curso/tema2/img32.png")
+
+    .row.justify-content-center.mb-5
+      .col-lg-6.col-8
+        img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img33.png")
+      .col-lg-6.col-12
+        p.mb-4 Ahora, las partes de una tabla son:        
+        ul.lista-ul--color.mb-0
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Número de orden consecutivo.
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Título que refleje en qué consiste el contenido.
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 El tiempo
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Fecha.
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Lugar.
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 El cuadro o matriz de la tabla con la información entramada de columnas y filas.
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Primera fila: se reserva para indicar a qué se refieren los datos subyacentes y que unidad de medida se utilizó. 
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Primera columna: se reflejan las diferentes clases según la escala de clasificación empleada.  
+          li.mb-2
+            i.fas.fa-location-arrow
+            .p-0 Notas explicativas: indican de donde se obtuvieron los datos y en ocasiones, la significación estadística.
+      
+    p.mb-5 Por ejemplo: la empresa XY de viajes y turismo, presenta a continuación el comportamiento y cumplimiento de sus trabajadores referente al Código de Ética:
+
+    .fondo4.p-4.mb-5      
+      SlyderA(tipo="b")
+        .row.justify-content-center.mb-0.pt-4
+          .col-lg-5.col-10
+            h4.mb-5 Referentes utilizados
+            p.mb-4 Mecanismos para verificar el cumplimiento del código de ética:
+            ul.lista-ul--color.mb-0
+              li.mb-2
+                i.fas.fa-location-arrow
+                .p-0 Código de ética y conducta empresarial.
+              li.mb-2
+                i.fas.fa-location-arrow
+                .p-0 Reglamento interno de trabajo.
+              li.mb-2
+                i.fas.fa-location-arrow
+                .p-0 Deberes y derechos del empleado.
+              li.mb-2
+                i.fas.fa-location-arrow
+                .p-0 Reglamento de la junta directiva.
+              li.mb-2
+                i.fas.fa-location-arrow
+                .p-0 Programas de gestión de control.
+              li.mb-2
+                i.fas.fa-location-arrow
+                .p-0 Sistema de auditorías internas.
+              li.mb-2
+                i.fas.fa-location-arrow
+                .p-0 Programas de formación.
+              li.mb-2
+                i.fas.fa-location-arrow
+                .p-0 Estatutos legales de la organización.
+              li.mb-2
+                i.fas.fa-location-arrow
+                .p-0 Sistema integral para la prevención de lavandas de activos.
+
+          .col-lg-7.col-12                  
+            img.mb-0(src="@/assets/curso/tema2/img34.png")  
+        .row.justify-content-center.mb-0.pt-4
+          .col-lg-5.col-10
+            h4.mb-5 Datos utilizados
+            p.mb-4 Mecanismos para verificar el cumplimiento del código de ética:            
+            .tabla-a.mb-0(style="min-width: 0px; ")            
+              table(style="min-width: 0px; ")            
+                thead(style="border-top: 0px solid;")
+                  tr.cabecara-tabla
+                    th.text-white(colspan=4) Manejos indebidos comparativo 2014 y 2015                    
+                    
+                tbody
+                  tr(style="background-color: #f8f8f8")                
+                    td 
+                    td 2014
+                    td 2015
+                    td Variación
+                  tr
+                    td Valor
+                    td 313.558.490
+                    td 165.053.609
+                    td 53%
+                  tr
+                    td Cantidad de manejos indebidos
+                    td 18
+                    td 15
+                    td 17%
+          .col-lg-7.col-12                  
+            img.mb-0(src="@/assets/curso/tema2/img35.png")      
+        .row.justify-content-center.mb-0.pt-4
+          .col-lg-5.col-10
+            h4.mb-5 Descripción 
+            p.mb-4 En este aspecto, la vicepresidencia de auditoría se encarga de comprobar la aplicación y respeto del código de ética a todos los niveles de la empresa, por ende:
+            ul.lista-ul--color.mb-0
+              li.mb-2
+                i.fas.fa-location-arrow
+                .p-0 Recibe y analiza la criticidad de las denuncias y, dependiendo del análisis las remite al área involucrada para ser objeto de respuesta y seguimiento. De acuerdo a la gravedad del caso se puede proceder a realizar una investigación más profunda o si es el caso, instaurar las respectivas denuncias ante las entidades competentes.
+              li.mb-2
+                i.fas.fa-location-arrow
+                .p-0 Se informa a través del boletín manejos indebidos, las malas prácticas que atentan contra la sostenibilidad de la empresa. El objetivo es que todos los colaboradores tengan conocimiento de lo sucedido, para evitar que dicha situación se repita a futuro.
+          .col-lg-7.col-12                  
+            img.mb-0(src="@/assets/curso/tema2/img36.png")   
+        .row.justify-content-center.mb-0.pt-4
+          .col-lg-5.col-10
+            h4.mb-5 Conclusión del ejercicio estadístico
+            p.mb-0 A la baja anual de las infracciones, han servido las estrategias propuestas por la empresa para corregir las conductas indebidas de los empleados.
+          .col-lg-7.col-12                  
+            img.mb-0(src="@/assets/curso/tema2/img37.png")   
+       
 </template>
 
 <script>
