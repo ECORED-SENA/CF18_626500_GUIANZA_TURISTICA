@@ -49,6 +49,9 @@ figcaption
       margin-bottom: 0px
   &.color-acento-contenido
     border-left-color: #EB6F2D
+  &.color-acento-botones
+    border-left-color: #12263F
+    
 
 .titulo-principal__numero  
   span
@@ -256,3 +259,22 @@ table
   .tarjeta3
     border-radius: 26px
     background-color: #ffe6a1
+
+.tema3
+  .fondo1
+    position: relative
+    padding-bottom: 1rem
+    p, div,img, span
+      position: relative
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema3/fondo1.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
