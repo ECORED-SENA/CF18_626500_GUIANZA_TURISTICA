@@ -590,7 +590,50 @@
             p.mb-0 A la baja anual de las infracciones, han servido las estrategias propuestas por la empresa para corregir las conductas indebidas de los empleados.
           .col-lg-7.col-12                  
             img.mb-0(src="@/assets/curso/tema2/img37.png")   
-       
+
+    .fondo5.py-3.mb-4
+      .row.justify-content-center.align-items-center      
+        .col-lg-9.col-12
+          p.mb-4 Los datos estadísticos y las gráficas son el centro de atención de la evaluación a través de instrumentos y el manejo de los datos. Requiere de práctica y enfoque realizar la sistematización de datos estadísticos y el análisis de estos y como dice el famoso refrán: “es cuestión de método”.
+          p.mb-4 Al observar los gráficos estadísticos, se debe recordar que los datos han tenido un tratamiento en organización y selección, quedando aquellos fundamentales o demostrativos del estudio ya sea de comparación para encontrar diferencias, o de proporción, asociación o correlación, para la búsqueda de causas o patrones establecidos, lo que lleva a comprender que para analizarlos hay que tener en cuenta que cada caso necesita de una estrategia de análisis.
+          p.mb-lg-0.mb-3 Depende del objetivo del estudio, en el caso del ejemplo anterior, sobre la verificación del comportamiento ante el código de ética del turismo, la intención es identificar el número de situaciones que se presentan por año; se generan estrategias de mejora y se repite año a año comparando las cifras y buscando reducción, en este caso de las acciones indebidas.  
+        .col-lg-3.col-8
+          img.mb-0(src="@/assets/curso/tema2/img38.svg")
+    
+    p.mb-4 Cuando se entregan los datos en tabla y graficados, estos deben ser estudiados y se deben encontrar indicios clave de los intereses por los que se hace el análisis, la lectura del informe se hace a profundidad buscando datos para las conclusiones e identificando los aspectos para la toma de decisiones. Finalmente, es importante, cuidar las fuentes de consulta y la capacidad técnica de los estudios a consultar, así como tener técnicas para elaborar las estadísticas y presentar los informes según sea el caso.
+    p.mb-5 A continuación, se presenta un ejemplo sobre cómo hacer comprensibles los datos, tomado de las Naciones Unidas y la Comisión Económica para Europa (2009).
+
+    .row.justify-content-center.mb-4
+      .col-lg-6.col-10.d-flex
+        div.p-0
+          img.mb-4(src="@/assets/curso/tema2/img39.png")
+          p.mb-lg-0.mb-3 Los datos se presentan por orden alfabético por países. Los valores son muy difíciles de comparar. La atención se centra sobre el primer y último valor, que no tienen relevancia específica.
+      .col-lg-6.col-10.d-flex
+        div.p-0
+          img.mb-4(src="@/assets/curso/tema2/img40.png")
+          p.mb-0 Los datos se presentan en orden de menor a mayor valor. Es fácil compararlos. La atención se centra en los valores mínimos y máximos del conjunto de datos.
+
+    .fondo6.py-3.mb-4
+      .row.justify-content-center.align-items-center
+        .col-lg-6.col-8
+          img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img41.png")
+        .col-lg-6.col-12
+          p.mb-3 Para analizar los datos estadísticos, se debe tener en cuenta que en el mercado existen herramientas de análisis de datos directo en la web que ayudan considerablemente a hacer tareas de estadística y elaboración de gráficas de resultados.  Respecto a la forma de presentar gráficas existen de diferentes tipos como:
+          ul.lista-ul--color.mb-4
+            li.mb-1
+              i.fas.fa-location-arrow
+              .p-0 Barras.
+            li.mb-1
+              i.fas.fa-location-arrow
+              .p-0 Tortas o circular.
+            li.mb-1
+              i.fas.fa-location-arrow
+              .p-0 Polígonos de frecuencia.
+            li.mb-0
+              i.fas.fa-location-arrow
+              .p-0 Radial, entre otros.  
+          .cajon.color-primario.p-4.mb-0
+            p.mb-0 Se debe practicar el análisis de datos y la construcción de informes con base en datos estadísticos.  Estas habilidades son de importancia para el guía y su proceso formativo.
 </template>
 
 <script>
