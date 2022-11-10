@@ -94,7 +94,7 @@
               h3.mb-4 Tabla 2
               p.mb-lg-0.mb-3 A continuación le invitamos a profundizar sobre el reporte de imprevistos en la bitácora teniendo encuentra las recomendaciones que encontrara en la siguiente tabla.
             .col-sm-auto
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/anexo1.pdf')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
 

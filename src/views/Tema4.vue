@@ -132,7 +132,7 @@
                 span 10
               p.mb-0 Fomentar el desarrollo de los empleados.
           
-    p.mb-5 Las normas ISO son documentos que especifican requerimientos que pueden ser empleados en organizaciones para garantizar que los productos y servicios ofrecidos por dichas organizaciones cumplen con su objetivo. Para el año 2021 la ISO (International Organization for Standardization), publicó alrededor de 19.500 normas internacionales que se pueden obtener desde la página oficial de ISO (ISO, 2021).
+    p.mb-5 Las normas ISO son documentos que especifican requerimientos que pueden ser empleados en organizaciones para garantizar que los productos y servicios ofrecidos por dichas organizaciones cumplen con su objetivo. Para el año 2021 la ISO (<i>International Organization for Standardization</i>), publicó alrededor de 19.500 normas internacionales que se pueden obtener desde la página oficial de ISO (ISO, 2021).
     p.mb-5 En los negocios, los estándares ISO hacen posible que se:
 
     .row.justify-content-center.mb-5

@@ -54,6 +54,8 @@
         h4.mb-0 Servucción
         .linea(style="width: 132px")
 
+    p.mb-4 Constituye un neologismo referido al marketing. Se considera que se obtiene a partir de la suma de dos palabras: servicio, de la que se usaría el “serv-”, y producción, de la que se emplearía el “-ucción”, y se encuentra vinculado a la efectiva gestión empresarial, fundamentada en la búsqueda de la satisfacción del cliente:  
+
     .row.justify-content-center.mb-5
       .col-lg-6.col-12.d-flex
         div.mb-lg-0.mb-0.p-4(style="background-color: #cce7f6") 

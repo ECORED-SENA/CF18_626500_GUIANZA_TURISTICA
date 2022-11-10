@@ -26,14 +26,14 @@
             div.p-0
               img.mb-0(style="min-width:111px" src="@/assets/curso/tema2/img02.svg")
             div.px-2
-              p.mb-0 <b>1. Definir qué es lo que se quiere medir:</b> En este caso, se puede medir el impacto del recorrido, el nivel de satisfacción percibido por el turista durante la prestación del servicio o los conocimientos del guía.
+              p.mb-0 <b>1. Definir qué es lo que se quiere medir:</b> en este caso, se puede medir el impacto del recorrido, el nivel de satisfacción percibido por el turista durante la prestación del servicio o los conocimientos del guía.
       .col-lg-6.col-12
         .tarjeta1.p-3.mb-0
           .d-flex.align-items-center.mb-0
             div.p-0
               img.mb-0(style="min-width:111px" src="@/assets/curso/tema2/img03.svg")
             div.px-2
-              p.mb-0 <b>2. Identificar a quién se va a evaluar:</b>  Por lo general en guianza turística se mide el desempeño del guía de turismo, el nivel de impacto del recorrido y los servicios relacionados con lo realizado por el guía.
+              p.mb-0 <b>2. Identificar a quién se va a evaluar:</b>  por lo general en guianza turística se mide el desempeño del guía de turismo, el nivel de impacto del recorrido y los servicios relacionados con lo realizado por el guía.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-6.col-12
@@ -49,7 +49,7 @@
             div.p-0
               img.mb-0(style="min-width:111px" src="@/assets/curso/tema2/img05.svg")
             div.px-2
-              p.mb-0 <b>4. Diseñar el instrumento:</b>  Debe contener información cualitativa y cuantitativa.
+              p.mb-0 <b>4. Diseñar el instrumento:</b>  debe contener información cualitativa y cuantitativa.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-6.col-12
@@ -193,7 +193,7 @@
         .row.justify-content-center.mb-0.pt-4
           .col-lg-4.col-10
             h4.mb-5 Escala de valoración de 5 puntos
-            p.mb-lg-0.mb-3 Es el preferida por los evaluadores por la fiabilidad, puesto que, da resultados con las escalas unipolares tipo Likert, es decir que permite el enfoque en un solo ítem que identifica la ausencia o presencia de lo que se desea evaluar.
+            p.mb-lg-0.mb-3 Es el preferida por los evaluadores por la fiabilidad, puesto que, da resultados con las escalas unipolares tipo <i>Likert</i>, es decir que permite el enfoque en un solo ítem que identifica la ausencia o presencia de lo que se desea evaluar.
           .col-lg-7.col-12                  
             img.mb-0(src="@/assets/curso/tema2/img18.png")  
         .row.justify-content-center.mb-0.pt-4
@@ -308,23 +308,23 @@
       .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
         p.mb-0 <b>Encuestas:</b> técnica que pregunta sobre intereses, tener en cuenta que, si es amplia, con muchos puntos a resolver, son poco atractivas y tienen tasas de respuesta y de finalización bajas. 
       .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
-        p.mb-0 <b>SERVQUAL:</b>  A través de una encuesta se pide a los clientes que califiquen el servicio entregado en comparación con sus expectativas. Es real, pero puede presentar una distancia muy amplia entre el cliente y el servicio. 
+        p.mb-0 <b><i>SERVQUAL</i>:</b>  a través de una encuesta se pide a los clientes que califiquen el servicio entregado en comparación con sus expectativas. Es real, pero puede presentar una distancia muy amplia entre el cliente y el servicio. 
       .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
-        p.mb-0 Compras misteriosas: es una técnica popular que se usa en tiendas, hoteles y restaurantes, pero que también funciona para cualquier otro servicio. Consiste en contratar a un "cliente encubierto" para que pruebe la calidad de tu servicio.
+        p.mb-0 <b>Compras misteriosas:</b> es una técnica popular que se usa en tiendas, hoteles y restaurantes, pero que también funciona para cualquier otro servicio. Consiste en contratar a un "cliente encubierto" para que pruebe la calidad de tu servicio.
       .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
-        p.mb-0 Calificación posterior al servicio: esta es la práctica de pedir a los clientes que califiquen el servicio inmediatamente después de su entrega.
+        p.mb-0 <b>Calificación posterior al servicio:</b> esta es la práctica de pedir a los clientes que califiquen el servicio inmediatamente después de su entrega.
       .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
-        p.mb-0 Encuesta de seguimiento: con este método se solicita a clientes que evalúen la calidad del servicio a través de una encuesta por correo electrónico, por ejemplo, a través de Google Forms. Tiene algunas ventajas sobre la valoración posterior al servicio.  Por un lado, le da tiempo y espacio suficiente al cliente para dar respuestas más detalladas y por otra se recoge la información organizada. La Encuesta de seguimiento también proporciona una visión holística del servicio. En lugar de una evaluación caso por caso, mide la opinión general de los clientes sobre el servicio prestado.
+        p.mb-0 <b>Encuesta de seguimiento:</b> con este método se solicita a clientes que evalúen la calidad del servicio a través de una encuesta por correo electrónico, por ejemplo, a través de Google Forms. Tiene algunas ventajas sobre la valoración posterior al servicio.  Por un lado, le da tiempo y espacio suficiente al cliente para dar respuestas más detalladas y por otra se recoge la información organizada. La Encuesta de seguimiento también proporciona una visión holística del servicio. En lugar de una evaluación caso por caso, mide la opinión general de los clientes sobre el servicio prestado.
       .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
-        p.mb-0 Encuesta en App:  con una encuesta en App, las preguntas se hacen mientras el visitante está en la aplicación o en el sitio web, en lugar de después del servicio o por correo electrónico. Puede ser una simple pregunta, por ejemplo, ¿cómo calificaría usted nuestro servicio?, pero también pueden ser más de acuerdo con las necesidades. 
+        p.mb-0 <b>Encuesta en <i>App</i>:</b>  con una encuesta en <i>App</i>, las preguntas se hacen mientras el visitante está en la aplicación o en el sitio <i>web</i>, en lugar de después del servicio o por correo electrónico. Puede ser una simple pregunta, por ejemplo, ¿cómo calificaría usted nuestro servicio?, pero también pueden ser más de acuerdo con las necesidades. 
       .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
-        p.mb-0 Puntuación del esfuerzo del cliente (Customer Effort Score, CES): mide la facilidad de una experiencia del cliente con una marca, medir esto es lo que tiene mayor impacto positivo en la experiencia del cliente, según los creadores.  No preguntar: "¿Qué tan satisfecho estás con este servicio?" La respuesta podría resultar distorsionada por varios factores, como, por ejemplo, la cortesía. Pregunta: "¿Cuánto esfuerzo te costó resolver tus preguntas?", esto puede evaluar la probabilidad de que los usuarios del servicio persigan usar y comprar sus productos o servicios de forma reiterativa.  
+        p.mb-0 <b>Puntuación del esfuerzo del cliente (<i>Customer Effort Score</i>, <i>CES</i>):</b> mide la facilidad de una experiencia del cliente con una marca, medir esto es lo que tiene mayor impacto positivo en la experiencia del cliente, según los creadores.  No preguntar: "¿Qué tan satisfecho estás con este servicio?" La respuesta podría resultar distorsionada por varios factores, como, por ejemplo, la cortesía. Pregunta: "¿Cuánto esfuerzo te costó resolver tus preguntas?", esto puede evaluar la probabilidad de que los usuarios del servicio persigan usar y comprar sus productos o servicios de forma reiterativa.  
       .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
-        p.mb-0 Monitoreo de redes sociales: el método ha tomado impulso por el auge de las redes sociales debido a que las personas encuentran que este medio sirve como comunicación y donde pueden expresar si restricción sus frustraciones y ser escuchados.  
+        p.mb-0 <b>Monitoreo de redes sociales:</b> el método ha tomado impulso por el auge de las redes sociales debido a que las personas encuentran que este medio sirve como comunicación y donde pueden expresar si restricción sus frustraciones y ser escuchados.  
       .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
-        p.mb-0 Métricas de servicio objetivas: son estadísticas con análisis objetivo y cuantitativo del servicio. Se reconoce que no son suficientes para juzgar la calidad del servicio por sí mismas, pero juegan un papel crucial en mostrar las áreas en las que se debe mejorar. (Opzeeland P. 2021)
+        p.mb-0 <b>Métricas de servicio objetivas:</b> son estadísticas con análisis objetivo y cuantitativo del servicio. Se reconoce que no son suficientes para juzgar la calidad del servicio por sí mismas, pero juegan un papel crucial en mostrar las áreas en las que se debe mejorar. (Opzeeland P. 2021)
       .p-4.w-100(style="border-radius: 21px; background-color:#f0f2ef")
-        p.mb-0 Análisis de la documentación: en este enfoque cualitativo se recopilan los registros de servicio escritos o grabados. Se revisa la documentación de los servicios de baja calidad, con las respectivas observaciones; en este método, es interesante leer la documentación de los prestadores de servicio que siempre se destacan. ¿Qué hacen ellos mejor que los demás? Esto ayuda como buenas prácticas.
+        p.mb-0 <b>Análisis de la documentación:</b> en este enfoque cualitativo se recopilan los registros de servicio escritos o grabados. Se revisa la documentación de los servicios de baja calidad, con las respectivas observaciones; en este método, es interesante leer la documentación de los prestadores de servicio que siempre se destacan. ¿Qué hacen ellos mejor que los demás? Esto ayuda como buenas prácticas.
     
     p.mb-5 La aplicación de los instrumentos de medición en la guianza está centrada en los tres momentos, como se muestra en la siguiente tabla 1:      
     
@@ -368,7 +368,7 @@
       .col-lg-6.col-8
         img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img29.png")
       .col-lg-6.col-12
-        p.mb-4 Para el caso de la Guianza Turística, lo más recomendable es emplear las escalas Likert de tres o cinco opciones de respuestas, debido a que permiten analizar percepciones de los turistas con relación a los servicios turísticos. A continuación, se exponen los elementos que debe tener un formato de las escalas tipo Likert:
+        p.mb-4 Para el caso de la Guianza Turística, lo más recomendable es emplear las escalas <i>Likert</i> de tres o cinco opciones de respuestas, debido a que permiten analizar percepciones de los turistas con relación a los servicios turísticos. A continuación, se exponen los elementos que debe tener un formato de las escalas tipo <i>Likert</i>:
         ul.lista-ul--color.mb-0
           li.mb-2
             i.fas.fa-location-arrow
@@ -397,7 +397,7 @@
           li.mb-0
             i.fas.fa-location-arrow
             .p-0 Firma.
-    p.mb-0 Estos formatos pueden presentarse en papel o en la web configurando una plantilla para extraer los datos de dicha medición y hacer un reporte de manera ágil y certera. 
+    p.mb-0 Estos formatos pueden presentarse en papel o en la <i>web</i> configurando una plantilla para extraer los datos de dicha medición y hacer un reporte de manera ágil y certera. 
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido
       h2 2.2   Autoevaluación 
@@ -618,7 +618,7 @@
         .col-lg-6.col-8
           img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img41.png")
         .col-lg-6.col-12
-          p.mb-3 Para analizar los datos estadísticos, se debe tener en cuenta que en el mercado existen herramientas de análisis de datos directo en la web que ayudan considerablemente a hacer tareas de estadística y elaboración de gráficas de resultados.  Respecto a la forma de presentar gráficas existen de diferentes tipos como:
+          p.mb-3 Para analizar los datos estadísticos, se debe tener en cuenta que en el mercado existen herramientas de análisis de datos directo en la <i>web</i> que ayudan considerablemente a hacer tareas de estadística y elaboración de gráficas de resultados.  Respecto a la forma de presentar gráficas existen de diferentes tipos como:
           ul.lista-ul--color.mb-4
             li.mb-1
               i.fas.fa-location-arrow
