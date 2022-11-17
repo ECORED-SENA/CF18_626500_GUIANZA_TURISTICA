@@ -47,13 +47,10 @@
           .col-lg-1
           .col-lg-6.col-12                  
             img.mb-0(src="@/assets/curso/tema5/img06.png")  
-        .row.justify-content-center.mb-0.pt-4
+        .row.justify-content-center.align-items-center.mb-0.pt-4
           .col-lg-4.col-10            
             p.mb-4 Los elementos que componen la bitácora son:
             ul.lista-ul--color.mb-lg-0.mb-3
-              li.mb-1
-                i.fas.fa-location-arrow
-                .p-0 Los elementos que componen la bitácora son:
               li.mb-1
                 i.fas.fa-location-arrow
                 .p-0 Fecha de realización del tour o recorrido. 
@@ -89,7 +86,7 @@
         .col-lg-3.col-8.px-5
           img.mb-lg-0.mb-3(src="@/assets/curso/tema5/img08.png")  
         .col-lg-8.col-12.pt-lg-5                         
-          .row.justify-content-between.align-items-center
+          .row.justify-content-between.align-items-center.px-3.px-lg-0
             .col.mb-3.mb-sm-0
               h3.mb-4 Tabla 2
               p.mb-lg-0.mb-3 A continuación le invitamos a profundizar sobre el reporte de imprevistos en la bitácora teniendo encuentra las recomendaciones que encontrara en la siguiente tabla.
@@ -103,11 +100,11 @@
         .cajon.color-primario.p-4.mb-0
             p.mb-0 La Real Academia de la Lengua, define el término novedad como la acción de informar sobre un suceso reciente del que se da noticia.
 
-    .row.justify-content-center.py-3.mb-5       
+    .row.justify-content-center.align-items-center.py-3.mb-4     
       .col-lg-6.col-12        
           p.mb-4 Debido a que el guía entre sus funciones tiene la de asistir a pasajeros y la conducción de estos, debe informarse al contratante, los detalles de un suceso relacionado con la salud de un usuario, el incumplimiento de un servicio contratado y cualquier otro asunto que amerite una detallada descripción de lo sucedido. Adicionalmente, se incluye al informe, una situación que se define como incidente o en el caso de accidente y cómo se procede ante estas situaciones. 
-          p.mb-lg-0.mb-3 Todas las personas en una actividad turística deben contar con un seguro o póliza, por tanto, se debe evaluar la situación en lo posible con de Atención Pre-hospitalaria, APH, cuando se presenta un accidente, así como hacer el trámite para la cobertura de la póliza por medio de las líneas o canales establecidos, y seguir el conducto de atención apoyados en el equipo de trabajo.          
-      .col-lg-6.col-8
+          p.mb-0 Todas las personas en una actividad turística deben contar con un seguro o póliza, por tanto, se debe evaluar la situación en lo posible con de Atención Pre-hospitalaria, APH, cuando se presenta un accidente, así como hacer el trámite para la cobertura de la póliza por medio de las líneas o canales establecidos, y seguir el conducto de atención apoyados en el equipo de trabajo.          
+      .col-lg-6.col-8.d-none.d-lg-block
         img.mb-0(src="@/assets/curso/tema5/img09.png")
 
     .row.justify-content-center.align-items-center.mb-5       

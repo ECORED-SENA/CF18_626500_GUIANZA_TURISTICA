@@ -10,7 +10,7 @@
     .fondo1.py-3
       .row.justify-content-center.align-items-center
         .col-lg-6.col-10
-          img.mb-lg-0.mb-0(src="@/assets/curso/tema1/img01.png")
+          img.mb-lg-0.mb-3(src="@/assets/curso/tema1/img01.png")
         .col-lg-6.col-12
           p.mb-4 Son varias las actividades que se derivan de las funciones de un guía de turismo, entre ellas se encuentra la de definir los pasos a seguir para la identificación del nivel de satisfacción de los servicios proporcionados, de forma que los resultados puedan ser analizados y faciliten la puesta en marcha de mejoras concretas en el servicio guiado. De esta manera, es una necesidad imperiosa mantener el contacto y la comunicación relacionados con el servicio y recoger las opiniones de los usuarios al cierre de este.
           .cajon.color-primario.p-4.mb-0
@@ -22,10 +22,10 @@
     #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1 Calidad en el servicio
     
-    .fondo2.py-5
-      .row.justify-content-center.align-items-center.mb-3
+    .fondo2.py-lg-5.py-4
+      .row.justify-content-center.align-items-center.mb-0
         .col-lg-6.col-10
-          img.mb-lg-0.mb-0(src="@/assets/curso/tema1/img02.svg")
+          img.mb-lg-0.mb-3(src="@/assets/curso/tema1/img02.svg")
         .col-lg-6.col-12
           p.mb-4 Para que la prestación del servicio de guianza turística se dé en términos de calidad y excelencia, se hace necesario reconocer que su enfoque es hacia el cliente, resultando fundamental que el guía de turismo comprenda cuáles son las necesidades tanto actuales como futuras del usuario, esforzándose por dar respuesta a sus expectativas.
           p.mb-0 La calidad en el sector turístico inicia desde que el cliente solicita información del servicio a utilizar, orientándolo sobre sitios a recorrer, hoteles, servicios a prestar, tiempos de visita y de transporte. Claro está que no se puede dejar de lado la infraestructura normativa del país que ha sido promovida en este aspecto.
@@ -43,7 +43,7 @@
         p.mb-4 “La calidad es el conjunto de características de una entidad, que le confiere la aptitud para satisfacer las necesidades establecidas y las implícitas” (Sellés, Pina y Navas, 2004).  
         p.mb-4 Asimismo, la calidad hace referencia al cumplimiento o superación de las expectativas de los clientes a un costo que le represente valor. La calidad de un producto o servicio es la percepción que el cliente tiene del mismo; es una fijación mental del consumidor que asume conformidad con dicho producto o servicio y la capacidad de éste para satisfacer sus necesidades.
         p.mb-4 Igualmente, por excelencia se entiende que un producto o servicio es de características sobresalientes. Tiene que ver con aquello que es superior a otros productos o servicios debido a sus escasas imperfecciones o debilidades. Se trata de un producto de calidad probada e innovador.
-        p.mb-lg-0.mb-0 Al relacionar los dos conceptos, se puede apreciar que están íntimamente ligados, apuntando a ir más allá en la satisfacción de las expectativas de los clientes (Servicio Nacional de Aprendizaje, 2018).
+        p.mb-lg-0.mb-3 Al relacionar los dos conceptos, se puede apreciar que están íntimamente ligados, apuntando a ir más allá en la satisfacción de las expectativas de los clientes (Servicio Nacional de Aprendizaje, 2018).
       .col-lg-6.col-10
         img.mb-0(src="@/assets/curso/tema1/img03.png")
 
@@ -58,7 +58,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-6.col-12.d-flex
-        div.mb-lg-0.mb-0.p-4(style="background-color: #cce7f6") 
+        div.mb-lg-0.mb-lg-0.mb-3.p-4(style="background-color: #cce7f6") 
           img.mb-3(style="width: 53px" src="@/assets/curso/tema1/img04.svg")
           p.mb-0 Consiste en todo lo que implica el proceso de elaboración de un servicio y la conjugación de los elementos físicos y humanos en la relación cliente – empresa, necesaria para la realización de la prestación de un servicio y cuyas características han sido determinadas desde la idea concebida, hasta la obtención del resultado como tal (el servicio).
       .col-lg-6.col-12.d-flex
@@ -68,42 +68,117 @@
     
     p.mb-5 Al buscar la satisfacción del cliente, la servucción debe implicar varios aspectos, entre ellos, los elementos tangibles o el soporte físico, que sirven de apoyo a la prestación del servicio. Es el componente visible para el cliente, debe estar acorde con la calidad que se espera del servicio a prestar. Lo constituyen:
     
-    .row.justify-content-center.w-100.mb-4
-      .col.px-2
-        div.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
-          img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img05.svg")
-          p.mb-0 El edificio.
-      .col.px-2
-        div.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
-          img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img06.svg")
-          p.mb-0 Accesos.
-      .col.px-2
-        div.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
-          img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img07.svg")
-          p.mb-0 Oficinas.
-      .col.px-2
-        div.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
-          img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img08.svg")
-          p.mb-0 Mobiliario.
-      .col.px-2
-        div.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
-          img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img09.svg")
-          p.mb-0 Decoración.
-      .col.px-2
-        div.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
-          img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img10.svg")
-          p.mb-0 Materias primas.
-      .col.px-2
-        div.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
-          img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img11.svg")
-          p.mb-0 Materiales, etc.
-    
-    .fondo3.py-4.mb-5
-      .row.justify-content-center.align-items-center.mb-0
+    .d-none.d-lg-block.p-0
+      .row.justify-content-center.w-100.mb-4
+        .col.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img05.svg")
+            p.mb-0 El edificio.
+        .col.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img06.svg")
+            p.mb-0 Accesos.
+        .col.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img07.svg")
+            p.mb-0 Oficinas.
+        .col.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img08.svg")
+            p.mb-0 Mobiliario.
+        .col.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img09.svg")
+            p.mb-0 Decoración.
+        .col.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img10.svg")
+            p.mb-0 Materias primas.
+        .col.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img11.svg")
+            p.mb-0 Materiales, etc.
+
+    .d-none.d-lg-none.d-md-block.p-0
+      .row.justify-content-center.w-100.mb-4
+        .col-md-3.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img05.svg")
+            p.mb-0 El edificio.
+        .col-md-3.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img06.svg")
+            p.mb-0 Accesos.
+        .col-md-3.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img07.svg")
+            p.mb-0 Oficinas.
+        .col-md-3.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img08.svg")
+            p.mb-0 Mobiliario. 
+    br       
+    .d-none.d-lg-none.d-md-block.p-0
+      .row.justify-content-center.w-100.mb-4     
+        .col-md-3.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img09.svg")
+            p.mb-0 Decoración.
+        .col-md-3.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img10.svg")
+            p.mb-0 Materias primas.
+        .col-md-3.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img11.svg")
+            p.mb-0 Materiales, etc.
+
+    .d-md-none.p-0
+      .row.justify-content-center.w-100.mb-4
+        .col-6.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img05.svg")
+            p.mb-0 El edificio.
+        .col-6.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img06.svg")
+            p.mb-0 Accesos.
+    br
+    .d-md-none.p-0
+      .row.justify-content-center.w-100.mb-4
+        .col-6.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img07.svg")
+            p.mb-0 Oficinas.
+        .col-6.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img08.svg")
+            p.mb-0 Mobiliario.
+    br
+    .d-md-none.p-0
+      .row.justify-content-center.w-100.mb-4
+        .col-6.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img09.svg")
+            p.mb-0 Decoración.
+        .col-6.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img10.svg")
+            p.mb-0 Materias primas.
+    br
+    .d-md-none.p-0
+      .row.justify-content-center.w-100.mb-4
+        .col-6.px-2.d-flex
+          div.w-100.p-3.py-2.pt-3.position-relative(style="background-color:#ffe6a1")
+            img.mb-0.position-absolute(style="width: 55px; top:-25px" src="@/assets/curso/tema1/img11.svg")
+            p.mb-0 Materiales, etc.
+        
+    div.px-2  
+      .row.justify-content-center.align-items-center.p-3.mb-5(style="background-color:#f3f9ff")
         .col-lg-5.col-12 
           p.mb-4 <b>Elementos importantes en la servucción</b>
           p.mb-4 Personal de contacto o frontline. En el proceso de la producción de un servicio enfocado en la calidad, se debe tomar en cuenta la presencia, educación, cordialidad, mística, valores, formación, honestidad, empatía, predisposición y capacidad de atención del recurso humano que preste el servicio directamente, de esto depende gran parte del éxito del proceso.
-          p.mb-lg-0.mb-0 También se deben tomar en cuenta elementos como el servicio interno, la organización, la administración; esto es, controlar el entorno organizacional y de igual manera el conocimiento de las empresas que prestan el servicio, ejemplo: hoteles con la misma categorización, restaurantes, agencias de viaje etc., lo anterior es vital para crear diferencias competitivas con el diseño de estrategias atractivas para el cliente potencial o cautivo. Asimismo, debe tomarse en cuenta el diseño e innovación que diferencien a la organización que presta el servicio de sus competidores en el mercado.
+          p.mb-lg-0.mb-3 También se deben tomar en cuenta elementos como el servicio interno, la organización, la administración; esto es, controlar el entorno organizacional y de igual manera el conocimiento de las empresas que prestan el servicio, ejemplo: hoteles con la misma categorización, restaurantes, agencias de viaje etc., lo anterior es vital para crear diferencias competitivas con el diseño de estrategias atractivas para el cliente potencial o cautivo. Asimismo, debe tomarse en cuenta el diseño e innovación que diferencien a la organización que presta el servicio de sus competidores en el mercado.
         .col-lg-7.col-10
           img.mb-0(src="@/assets/curso/tema1/img12.svg")
 
@@ -129,7 +204,7 @@
 
     p.mb-4 A continuación, se muestra el sistema nacional de Calidad en el Turismo, ver figura 1:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-lg-10.col-12  
         .titulo-sexto.color-acento-contenido(data-aos="fade-left")
           p.titulo <b>Figura 1</b> <i>Calidad y turismo</i> 
@@ -202,22 +277,22 @@
 
     .row.justify-content-center.mb-0
       .col-lg-3.col-10.d-flex
-        .tarjeta1.w-100.py-3.px-3
+        .tarjeta1.w-100.py-4.px-4.mb-lg-0.mb-3
           div.d-flex.justify-content-center
             img.mb-3(style="width:113px" src="@/assets/curso/tema1/img18.svg")
           p.mb-0 <b>1.</b> La Ley General de Turismo (Ley 300 de 1996 y sus modificaciones).
       .col-lg-3.col-10.d-flex
-        .tarjeta1.w-100.py-3.px-3
+        .tarjeta1.w-100.py-4.px-4.mb-lg-0.mb-3
           div.d-flex.justify-content-center
             img.mb-3(style="width:113px" src="@/assets/curso/tema1/img19.svg")
           p.mb-0 <b>2.</b> Las Normas Técnicas Sectoriales para Guías de Turismo (NTS-GT).
       .col-lg-3.col-10.d-flex
-        .tarjeta1.w-100.py-3.px-3
+        .tarjeta1.w-100.py-4.px-4.mb-lg-0.mb-3
           div.d-flex.justify-content-center
             img.mb-3(style="width:113px" src="@/assets/curso/tema1/img20.svg")
           p.mb-0 <b>3.</b> El Decreto 1053 de julio 19 de 2020 del Ministerio de Comercio, Industria y Turismo, el cual reglamenta el guionaje turístico y su ejercicio.
       .col-lg-3.col-10.d-flex
-        .tarjeta1.w-100.py-3.px-3
+        .tarjeta1.w-100.py-4.px-4.mb-lg-0.mb-3
           div.d-flex.justify-content-center
             img.mb-3(style="width:113px" src="@/assets/curso/tema1/img21.svg")
           p.mb-0 <b>4.</b> El Viceministerio de Turismo asumió las funciones del Consejo Profesional de Guías de Turismo.

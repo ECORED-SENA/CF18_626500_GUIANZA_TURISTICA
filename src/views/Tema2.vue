@@ -19,75 +19,75 @@
 
     p.mb-4 Para poder desarrollar procesos de medición, es importante tener en cuenta los siguientes pasos:
 
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-6.col-12
-        .tarjeta1.p-3.mb-lg-0.mb-3
+    .row.justify-content-center.mb-4
+      .col-lg-6.col-12.d-flex
+        .tarjeta1.p-3.mb-lg-0.mb-3.w-100
           .d-flex.align-items-center.mb-0
             div.p-0
               img.mb-0(style="min-width:111px" src="@/assets/curso/tema2/img02.svg")
             div.px-2
               p.mb-0 <b>1. Definir qué es lo que se quiere medir:</b> en este caso, se puede medir el impacto del recorrido, el nivel de satisfacción percibido por el turista durante la prestación del servicio o los conocimientos del guía.
-      .col-lg-6.col-12
-        .tarjeta1.p-3.mb-0
+      .col-lg-6.col-12.d-flex
+        .tarjeta1.p-3.mb-0.w-100
           .d-flex.align-items-center.mb-0
             div.p-0
               img.mb-0(style="min-width:111px" src="@/assets/curso/tema2/img03.svg")
             div.px-2
               p.mb-0 <b>2. Identificar a quién se va a evaluar:</b>  por lo general en guianza turística se mide el desempeño del guía de turismo, el nivel de impacto del recorrido y los servicios relacionados con lo realizado por el guía.
 
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-6.col-12
-        .tarjeta1.p-3.mb-lg-0.mb-3
+    .row.justify-content-center.mb-4
+      .col-lg-6.col-12.d-flex
+        .tarjeta1.p-3.mb-lg-0.mb-3.w-100
           .d-flex.align-items-center.mb-0
             div.p-0
               img.mb-0(style="min-width:111px" src="@/assets/curso/tema2/img04.svg")
             div.px-2
               p.mb-0 <b>3. Seleccionar el instrumento más adecuado.</b>
-      .col-lg-6.col-12
-        .tarjeta1.p-3.mb-0
+      .col-lg-6.col-12.d-flex
+        .tarjeta1.p-3.mb-0.w-100
           .d-flex.align-items-center.mb-0
             div.p-0
               img.mb-0(style="min-width:111px" src="@/assets/curso/tema2/img05.svg")
             div.px-2
               p.mb-0 <b>4. Diseñar el instrumento:</b>  debe contener información cualitativa y cuantitativa.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.mb-4
       .col-lg-6.col-12
-        .tarjeta1.p-3.mb-lg-0.mb-3
+        .tarjeta1.p-3.mb-lg-0.mb-3.d-flex.w-100
           .d-flex.align-items-center.mb-0
             div.p-0
               img.mb-0(style="min-width:111px" src="@/assets/curso/tema2/img06.svg")
             div.px-2
               p.mb-0 <b>5. Aplicación del instrumento:</b>  Puede ser virtual o físico.
       .col-lg-6.col-12
-        .tarjeta1.p-3.mb-0
+        .tarjeta1.p-3.mb-0.d-flex
           .d-flex.align-items-center.mb-0
             div.p-0
               img.mb-0(style="min-width:111px" src="@/assets/curso/tema2/img07.svg")
             div.px-2
               p.mb-0 <b>6. Análisis de la información y elaboración de un informe.</b>
 
-    p.mb-5 El servicio de guianza turística es una actividad que es susceptible de medición.  Realizar esta actividad, permite a los guías y a las agencias que los contratan, analizar las percepciones de los clientes frente a la prestación del servicio.
+    p El servicio de guianza turística es una actividad que es susceptible de medición.  Realizar esta actividad, permite a los guías y a las agencias que los contratan, analizar las percepciones de los clientes frente a la prestación del servicio.
     p.mb-4 Los objetivos de la evaluación están definidos por:
 
     .row.justify-content-center.mb-5
       .col-lg-3.col-10.d-flex
-        .tarjeta2.w-100.p-4
+        .tarjeta2.w-100.p-4.mb-lg-0.mb-3
           div.d-flex.justify-content-center
             img.mb-3(style="width:128px" src="@/assets/curso/tema2/img08.png")
           p.mb-0.text-center Conocer las percepciones de los turistas que vivenciaron el servicio.
       .col-lg-3.col-10.d-flex
-        .tarjeta2.w-100.p-4
+        .tarjeta2.w-100.p-4.mb-lg-0.mb-3
           div.d-flex.justify-content-center
             img.mb-3(style="width:128px" src="@/assets/curso/tema2/img09.png")
           p.mb-0.text-center Medir la calidad de los servicios prestados en un recorrido.
       .col-lg-3.col-10.d-flex
-        .tarjeta2.w-100.p-4
+        .tarjeta2.w-100.p-4.mb-lg-0.mb-3
           div.d-flex.justify-content-center
             img.mb-3(style="width:128px" src="@/assets/curso/tema2/img10.png")
           p.mb-0.text-center Analizar las situaciones que incidieron en la prestación del servicio. 
       .col-lg-3.col-10.d-flex
-        .tarjeta2.w-100.p-4
+        .tarjeta2.w-100.p-4.mb-lg-0.mb-0
           div.d-flex.justify-content-center
             img.mb-3(style="width:128px" src="@/assets/curso/tema2/img11.png")
           p.mb-0.text-center Recoger información de manera cualitativa que contribuya al fortalecimiento del servicio.
@@ -170,17 +170,20 @@
         p.mb-0 Y la diferencia entre las escalas cuantitativas y cualitativas es:
 
     .row.justify-content-center.mb-5
-      .col-lg-5.col-12
+      .col-lg-5.col-12.mb-lg-0.mb-5
         .tarjeta-avatar
           img(style="width: 214px;top:-28px" src="@/assets/curso/tema2/img15.png")   
           .tarjeta.color-acento-botones.p-5(style="background:#cce7f6")
-            p.mb-0.pt-4(style="color:#12263F") <br><br><br>La escala cualitativa o descriptiva, permite utilizar descripciones para identificar cada uno de los puntos o categorías de la escala en relación con los criterios. Se usan cuando se requiere saber con detalle del rasgo o atributo a observar en casos de autogestión del individuo a ser evaluado, por ejemplo, aprendizaje verificando construcción de mapas mentales, autorregulación y autoevaluación.
+            p.mb-0.pt-4(style="color:#12263F") <br><br><br>La escala cualitativa o descriptiva, permite utilizar descripciones para identificar cada uno de los puntos o categorías de la escala en relación con los criterios. Se usan cuando se requiere saber con detalle del rasgo o atributo a observar en casos de autogestión del individuo a ser evaluado, por ejemplo, aprendizaje verificando construcción de mapas mentales, autorregulación y autoevaluación.          
+        
+        
       .col-lg-5.col-12
         .tarjeta-avatar
           img(style="width: 214px;top:-28px" src="@/assets/curso/tema2/img16.png")   
           .tarjeta.color-acento-botones.p-5(style="background:#cce7f6")
             p.mb-0.pt-4(style="color:#12263F") <br><br><br>La escala de calificación numérica o cuantitativa es la más utilizada, en ella se atribuyen valores numéricos al grado o nivel de calidad a lo que se va a evaluar y que evidencia en la ejecución de un criterio de evaluación dado. La escala considera un valor numérico para cada uno de los grados que la componen.
     
+
     p.mb-4 Las escalas se puntean y organizan con resultados impares; existen diferentes escalas de valoraciones: 
     .fondo4.p-4.mb-5      
       SlyderA(tipo="b")
@@ -197,6 +200,10 @@
           .col-lg-7.col-12                  
             img.mb-0(src="@/assets/curso/tema2/img18.png")  
         .row.justify-content-center.mb-0.pt-4
+          //- .d-none.d-lg-block.border
+          //-   p LG
+          //- .d-none.d-md-block.border
+          //-   p MD
           .col-lg-4.col-10
             h4.mb-5 Escala de valoración de 7 puntos
             p.mb-4 Funciona mejor con las escalas bipolares la cual presenta dos extremos de opinión que pueden ser de igual sólo que son de extremos diferentes. Esta escala es ideal en caso de que se mida la satisfacción al cliente para un producto o servicio lanzado recientemente. 
@@ -213,7 +220,7 @@
               .col
                 p.mb-0 Mucho
             
-          .col-lg-7.col-12                  
+          .col-lg-7.col-12.d-flex.align-items-center
             img.mb-0(src="@/assets/curso/tema2/img19.png")  
         .row.justify-content-center.mb-0.pt-4
           .col-lg-4.col-10
@@ -225,7 +232,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.col-10
         p.mb-4 Para realizar la escala de valoración se hace necesario establecer los indicadores, los cuales son:
-        ul.lista-ul--color.mb-0
+        ul.lista-ul--color.mb-lg-0.mb-3
           li.mb-1
             i.fas.fa-location-arrow
             .p-0 Herramienta que muestra indicios o señales de una situación, actividad o resultado.
@@ -257,24 +264,24 @@
     p.mb-5 Los tipos de indicadores están relacionados con la posibilidad de contar con un referente significativo que determina a qué grado o nivel se está cerca a la meta.  Dependiendo de su aplicación o uso, pueden ser:
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-10.d-flex
-        .tarjeta3.w-100.py-3.px-3
+      .col-lg-4.col-10.d-flex.mb-lg-0.mb-3
+        .tarjeta3.w-100.p-4
           div.d-flex.justify-content-center
             img.mb-3(style="width:130px" src="@/assets/curso/tema2/img23.svg")
           p.mb-4 <b>1. Indicadores de gestión</b>
-          p.mb-lg-0.mb-3 Hacen referencia a la medición de aspectos relacionados con la gestión de condiciones y los recursos necesarios para el desarrollo de las actividades contratadas.
-      .col-lg-4.col-10.d-flex
-        .tarjeta3.w-100.py-3.px-3
+          p.mb-0 Hacen referencia a la medición de aspectos relacionados con la gestión de condiciones y los recursos necesarios para el desarrollo de las actividades contratadas.
+      .col-lg-4.col-10.d-flex.mb-lg-0.mb-3
+        .tarjeta3.w-100.p-4
           div.d-flex.justify-content-center
             img.mb-3(style="width:130px" src="@/assets/curso/tema2/img24.svg")
           p.mb-4 <b>2. Indicadores de producto</b>
-          p.mb-lg-0.mb-3 Hacen referencia al impacto de la actividad, número de actividades, clase o tipos de actividades, número de personas atendidas, entre otras. 
-      .col-lg-4.col-10.d-flex
-        .tarjeta3.w-100.py-3.px-3
+          p.mb-0 Hacen referencia al impacto de la actividad, número de actividades, clase o tipos de actividades, número de personas atendidas, entre otras. 
+      .col-lg-4.col-10.d-flex.mb-0
+        .tarjeta3.w-100.p-4
           div.d-flex.justify-content-center
             img.mb-3(style="width:130px" src="@/assets/curso/tema2/img25.svg")
           p.mb-4 <b>3. Indicadores de resultado</b>
-          p.mb-lg-0.mb-3 Medición del impacto en el individuo, cambio de percepción, elementos nuevos de conocimiento, gratitud y satisfacción. 
+          p.mb-0 Medición del impacto en el individuo, cambio de percepción, elementos nuevos de conocimiento, gratitud y satisfacción. 
       
 
     .row.justify-content-center.mb-5
@@ -354,12 +361,12 @@
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-12.d-flex
-        div.mb-lg-0.mb-3(style="border-radius:32px; background-color:#ffe6a1")
+        div.mb-lg-0.mb-3.w-100(style="border-radius:32px; background-color:#ffe6a1")
           img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img27.png")
           div.px-3.py-2
             p.mb-0 Determinar el momento de realizar la evaluación.
       .col-lg-4.col-12.d-flex
-        div(style="border-radius:32px; background-color:#ffe6a1")
+        div.w-100(style="border-radius:32px; background-color:#ffe6a1")
           img.mb-lg-0.mb-3(src="@/assets/curso/tema2/img28.png")
           div.px-3.py-2
             p.mb-0 Precisar qué tipo de instrumento se puede aplicar; estructurar y validar el instrumento.  
@@ -404,11 +411,11 @@
 
     p.mb-4 Dentro de las herramientas para prestar un mejor servicio guiado, está:
     .row.justify-content-center.mb-5
-      .col-lg-6.col-12.p-4(style="background-color: #f3f9ff")
+      .col-lg-6.col-12.p-4.mb-lg-0.mb-3(style="background-color: #f3f9ff")
         p.mb-4 <b>La autoevaluación</b>
         p.mb-4 Hace referencia al ejercicio mediante el cual la organización o empresa, diseña un instrumento para que el guía de turismo se compare frente a un modelo de excelencia e identificar los puntos fuertes y áreas a mejorar con relación al referente previamente determinado.  Esto le permite establecer las acciones de mejora necesarias en aquellas áreas que lo necesitan y posteriormente hacer el seguimiento del progreso alcanzado.
         p.mb-4 Para que la autoevaluación aporte valor al guía de turismo, debe hacerse de modo sistemático, es decir analizando el desempeño en todas las áreas del servicio, dependiendo de la forma de trabajo del guía, la madurez del proceso hacia la excelencia, los esfuerzos que se desea invertir y los beneficios que espera alcanzar, y puede ser a través de:
-        ul.lista-ul--color.mb-lg-0.mb-3
+        ul.lista-ul--color.mb-0
           li.mb-2
             i.fas.fa-location-arrow
             .p-0 Una lista de verificación.
@@ -457,9 +464,9 @@
     
     p.mb-4 La presentación de los resultados debe ser comprensible para los lectores e interesados, y se realiza de tres formas:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-lg-5.mb-3
       .col-lg-6.col-12
-        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+        AcordionA.mb-0(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
           div(titulo="Textual")
             p.mb-0 Es la tradicional relacionada con los informes, se aconseja a que se presente lo estrictamente necesario con una secuencia lógica sin incurrir en repeticiones, citando las tablas como referencia y sustento a la descripción.
           div(titulo="Tabular (cuadro estadístico)")
@@ -467,7 +474,7 @@
             p.mb-0 Aunque generalmente son de un gran tamaño, la acción con ellos es sintetizarlos para mostrarlos de acuerdo con el interés de quien los recopila; los datos muestran la frecuencia, relaciones, contrastes, variaciones y tendencias presentándolos sistemáticamente y agrupados, utilizando tablas que son auto explicativas, es decir que el lector no acuda al texto para conocer de qué trata. 
           div(titulo="Gráfica")
             p.mb-0 Un tipo de representación de datos, generalmente cuantitativos, mediante recursos visuales (líneas, vectores, superficies o símbolos), para que se manifieste visualmente la relación matemática o correlación estadística que guardan entre sí.
-      .col-lg-6.col-8
+      .col-lg-6.col-8.d-none.d-lg-block
         img.mb-0(src="@/assets/curso/tema2/img32.png")
 
     .row.justify-content-center.mb-5
@@ -509,8 +516,8 @@
     .fondo4.p-4.mb-5      
       SlyderA(tipo="b")
         .row.justify-content-center.mb-0.pt-4
-          .col-lg-5.col-10
-            h4.mb-5 Referentes utilizados
+          .col-lg-5.col-10.mb-lg-0.mb-3
+            h4.mb-lg-5.mb-4 Referentes utilizados
             p.mb-4 Mecanismos para verificar el cumplimiento del código de ética:
             ul.lista-ul--color.mb-0
               li.mb-2
@@ -544,8 +551,8 @@
           .col-lg-7.col-12                  
             img.mb-0(src="@/assets/curso/tema2/img34.png")  
         .row.justify-content-center.mb-0.pt-4
-          .col-lg-5.col-10
-            h4.mb-5 Datos utilizados
+          .col-lg-5.col-10.mb-lg-0.mb-3
+            h4.mb-lg-5.mb-4 Datos utilizados
             p.mb-4 Mecanismos para verificar el cumplimiento del código de ética:            
             .tabla-a.mb-0(style="min-width: 0px; ")            
               table(style="min-width: 0px; ")            
@@ -572,8 +579,8 @@
           .col-lg-7.col-12                  
             img.mb-0(src="@/assets/curso/tema2/img35.png")      
         .row.justify-content-center.mb-0.pt-4
-          .col-lg-5.col-10
-            h4.mb-5 Descripción 
+          .col-lg-5.col-10.mb-lg-0.mb-3
+            h4.mb-lg-5.mb-4 Descripción 
             p.mb-4 En este aspecto, la vicepresidencia de auditoría se encarga de comprobar la aplicación y respeto del código de ética a todos los niveles de la empresa, por ende:
             ul.lista-ul--color.mb-0
               li.mb-2
@@ -585,8 +592,8 @@
           .col-lg-7.col-12                  
             img.mb-0(src="@/assets/curso/tema2/img36.png")   
         .row.justify-content-center.mb-0.pt-4
-          .col-lg-5.col-10
-            h4.mb-5 Conclusión del ejercicio estadístico
+          .col-lg-5.col-10.mb-lg-0.mb-3
+            h4.mb-lg-5.mb-4 Conclusión del ejercicio estadístico
             p.mb-0 A la baja anual de las infracciones, han servido las estrategias propuestas por la empresa para corregir las conductas indebidas de los empleados.
           .col-lg-7.col-12                  
             img.mb-0(src="@/assets/curso/tema2/img37.png")   

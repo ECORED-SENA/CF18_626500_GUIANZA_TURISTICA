@@ -37,7 +37,7 @@
         img.mb-0(src="@/assets/curso/tema3/img02.png")
 
     .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4.col-8
+        .col-lg-4.col-8.d-none.d-lg-block
           img.mb-lg-0.mb-3(src="@/assets/curso/tema3/img03.png")
         .col-lg-8.col-12
           p.mb-4 Existen diferentes modelos para la toma de decisiones en las organizaciones, algunos definen un proceso racional de decisiones organizacionales, otros analizan como variables de decisión el entorno y su relación con la organización y otros centran su análisis en el individuo tomador de la decisión, su estilo y su responsabilidad en una decisión específica.

@@ -7,7 +7,7 @@
         span 6
       h1 El líder
 
-    .row.justify-content-center.py-3.mb-5       
+    .row.justify-content-center.align-items-center.py-3.mb-4       
       .col-lg-6.col-12        
           p.mb-4 El liderazgo es una forma de comportamiento que permite a las personas relacionarse con los demás. Esta condición contribuye al funcionamiento de grupos y en general de la sociedad.
           p.mb-4 El guía de turismo es un líder con actitud de servicio que, para el contexto colombiano: orienta, dirige, asiste y conduce a turistas por los diferentes territorios del país. 
@@ -16,8 +16,8 @@
       .col-lg-6.col-8
         img.mb-0(src="@/assets/curso/tema6/img01.png")
 
-    .row.justify-content-center.py-3.mb-5       
-      .col-lg-6.col-8
+    .row.justify-content-center.align-items-center.py-3.mb-5           
+      .col-lg-6.col-8.d-none.d-lg-block
         img.mb-lg-0.mb-3(src="@/assets/curso/tema6/img02.png")
       .col-lg-6.col-12        
         p.mb-4 En su desarrollo, el guía de turismo debe mostrar diferentes tipos de facetas, las cuales están relacionadas con el desarrollo de sus habilidades personales y competencias laborales; el guía debe:          
@@ -37,7 +37,7 @@
 
     p.mb-5 Teniendo en cuenta lo anterior, se concluye que las características del comportamiento de los guías de turismo están enmarcadas en diferentes áreas, como se muestra a continuación:
 
-    .row.justify-content-center.mb-5       
+    .row.justify-content-center.mb-lg-5.mb-3       
       .col-lg-4.col-12.d-flex
         .tarjeta-numerada.color-primario.w-100.p-5.py-4.mb-lg-0.mb-3
           .tarjeta-numerada__numero
@@ -161,7 +161,7 @@
     #t_6_1.titulo-segundo.color-acento-contenido
       h2 6.1 Liderazgo, principios y estilos
 
-    .row.justify-content-center.py-3.mb-5
+    .row.justify-content-center.align-items-center.py-3.mb-5
       .col-lg-6.col-8
         img.mb-lg-0.mb-3(src="@/assets/curso/tema6/img04.png")
       .col-lg-6.col-12
@@ -169,21 +169,22 @@
         p.mb-4 La palabra <b style="color:#EB6F2D">“liderazgo”</b> en sí misma puede significar un grupo colectivo de líderes, o puede significar características especiales de una figura célebre (como un héroe).
         p.mb-0 También existen otros usos para esta palabra, en los que el líder no dirige, sino que se trata de una figura de respeto (como una autoridad científica, gracias a su labor, a sus descubrimientos, a sus contribuciones a la comunidad). Junto con el rol de prestigio que se asocia a líderes inspiradores, un uso más superficial de la palabra “liderazgo” puede designar a entidades innovadoras, aquellas que durante un periodo de tiempo toman la delantera en algún ámbito, como alguna corporación o producto que toma la primera posición en algún mercado, así se relacionar al líder con sus seguidores como se muestra a continuación, ver figura 5:
 
-    .row.justify-content-center.mb-5
-      .col-lg-10.col-12
-        .titulo-sexto.color-acento-contenido(data-aos="fade-left")
-          p.titulo <b>Figura 5</b> <i>El líder y la relación con sus seguidores</i> 
-        figure
-          img.mb-lg-0.mb-3(src="@/assets/curso/tema6/img05.svg")
-          figcaption Nota. Material del Estudio del Servicio Nacional de Aprendizaje SENA. (Valverde et al, 2012).
+    .fondo3.p-0
+      .row.justify-content-center.mb-5
+        .col-lg-10.col-12
+          .titulo-sexto.color-acento-contenido(data-aos="fade-left")
+            p.titulo <b>Figura 5</b> <i>El líder y la relación con sus seguidores</i> 
+          figure
+            img.mb-lg-0.mb-3(src="@/assets/curso/tema6/img05.svg")
+            figcaption Nota. Material del Estudio del Servicio Nacional de Aprendizaje SENA. (Valverde et al, 2012).
 
-    p.mb-5 Por otra parte, existen diferentes estilos de liderazgo dentro de la gran gama de comportamientos presentes en los humanos, cada una de esas formas de emisión de conductas varía según la historia de aprendizaje de cada guía de turismo; al respecto, Valverde (2012) expone los siguientes estilos según las relaciones y el tipo de influencias:
+      p.mb-5 Por otra parte, existen diferentes estilos de liderazgo dentro de la gran gama de comportamientos presentes en los humanos, cada una de esas formas de emisión de conductas varía según la historia de aprendizaje de cada guía de turismo; al respecto, Valverde (2012) expone los siguientes estilos según las relaciones y el tipo de influencias:
     
     .vineta1.d-flex.align-items-center.mb-4
       div.p-0
         img.mb-0(src="@/assets/curso/vineta1.svg")
       div.px-2
-        p.mb-0 Según la relación entre el líder y sus seguidores, este se puede definir así:        
+        h5.mb-0 Según la relación entre el líder y sus seguidores, este se puede definir así:        
     
     .row.justify-content-center.mb-5       
       .col-lg-4.col-12.d-flex
@@ -210,7 +211,7 @@
       div.p-0
         img.mb-0(src="@/assets/curso/vineta1.svg")
       div.px-2
-        p.mb-0 Según el tipo de influencia del líder sobre sus subordinados, puede ser:
+        h5.mb-0 Según el tipo de influencia del líder sobre sus subordinados, puede ser:
 
     .row.justify-content-center.align-items-center.mb-0      
       .col-lg-6.col-8
@@ -253,7 +254,7 @@
       div.p-0
         img.mb-0(src="@/assets/curso/vineta1.svg")
       div.px-2
-        p.mb-0 La inteligencia emocional y el liderazgo
+        h5.mb-0 La inteligencia emocional y el liderazgo
 
     .row.justify-content-center.align-items-center.mb-5      
       .col-lg-6.col-8
