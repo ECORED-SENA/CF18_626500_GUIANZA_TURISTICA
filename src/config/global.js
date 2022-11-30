@@ -198,8 +198,7 @@ export default {
     {
       referencia:
         'Membrado Martínez, J. (2013). Metodologías avanzadas para la planificación y mejora:',
-      link:
-        'http://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx?p=3220031',
+      link: 'https://www.editdiazdesantos.com/wwwdat/pdf/9788479788193.pdf',
     },
     {
       referencia:
@@ -302,13 +301,6 @@ export default {
       tipo: 'Página web',
       link:
         'https://multimedia.uned.ac.cr/pem/recursos_pace/c-instrumentos-escala-calificacion.html',
-    },
-    {
-      tema: 'Interpretación y presentación de datos',
-      referencia: 'Ejemplos de presentación de la información',
-      tipo: 'Página web capítulo 7',
-      link:
-        'http://www.cpicmha.sld.cu/literarturapatrimonial/A-Manual%20de%20metodologia/JAPV3346/Cap%EDtulo%207.html',
     },
     {
       tema: 'Interpretación y presentación de datos',

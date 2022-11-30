@@ -30,7 +30,7 @@
             .p-0 Saber conocer.
           li.mb-2
             i.fas.fa-location-arrow
-            .p-0 Saber hacer, y en especial,
+            .p-0 Saber hacer, y en especial.
           li.mb-0
             i.fas.fa-location-arrow
             .p-0 Saber vivir en comunidad. 
@@ -55,7 +55,7 @@
               .p-0 Actitud de servicio.
             li.mb-0
               i.fas.fa-location-arrow
-              .p-0 Control emocional
+              .p-0 Control emocional.
       .col-lg-4.col-12.d-flex
         .tarjeta-numerada.color-primario.w-100.p-5.py-4.mb-lg-0.mb-3
           .tarjeta-numerada__numero

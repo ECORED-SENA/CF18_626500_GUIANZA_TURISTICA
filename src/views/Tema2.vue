@@ -196,7 +196,7 @@
         .row.justify-content-center.mb-0.pt-4
           .col-lg-4.col-10
             h4.mb-5 Escala de valoración de 5 puntos
-            p.mb-lg-0.mb-3 Es el preferida por los evaluadores por la fiabilidad, puesto que, da resultados con las escalas unipolares tipo <i>Likert</i>, es decir que permite el enfoque en un solo ítem que identifica la ausencia o presencia de lo que se desea evaluar.
+            p.mb-lg-0.mb-3 Es la preferida por los evaluadores por la fiabilidad, puesto que, da resultados con las escalas unipolares tipo <i>Likert</i>, es decir que permite el enfoque en un solo ítem que identifica la ausencia o presencia de lo que se desea evaluar.
           .col-lg-7.col-12                  
             img.mb-0(src="@/assets/curso/tema2/img18.png")  
         .row.justify-content-center.mb-0.pt-4
@@ -206,7 +206,7 @@
           //-   p MD
           .col-lg-4.col-10
             h4.mb-5 Escala de valoración de 7 puntos
-            p.mb-4 Funciona mejor con las escalas bipolares la cual presenta dos extremos de opinión que pueden ser de igual sólo que son de extremos diferentes. Esta escala es ideal en caso de que se mida la satisfacción al cliente para un producto o servicio lanzado recientemente. 
+            p.mb-4 Funciona mejor con las escalas bipolares la cual presenta dos extremos de opinión que pueden ser de igual, sólo que son de extremos diferentes. Esta escala es ideal en caso de que se mida la satisfacción al cliente para un producto o servicio lanzado recientemente. 
             p.mb-4 Ejemplo:
             .row.mb-lg-0.mb-3
               .col
@@ -445,7 +445,7 @@
     .row.justify-content-center.mb-5
       .col-lg-6.col-12
         p.mb-4 La tabulación es una forma de organización de la información estadística recopilada de la evaluación del servicio; es una expresión usada para presentar una serie de valores, magnitudes y conceptos para ser analizados posteriormente.  La estadística es una ciencia que se encarga de manejar datos numéricos para el cálculo de probabilidades, basados en estudios que reúnen, clasifica y recuenta situaciones que se convierten en un número para sacar conclusiones. 
-        p.mb-4 Para que estos números tengan sentido se presentan combinando texto, tablas, gráficas, mapas, cumpliendo con cuatros aspectos:  
+        p.mb-4 Para que estos números tengan sentido se presentan combinando texto, tablas, gráficas, mapas, cumpliendo con cuatro aspectos:  
         ul.lista-ul--color.mb-lg-0.mb-3
           li.mb-2
             i.fas.fa-location-arrow
@@ -470,8 +470,8 @@
           div(titulo="Textual")
             p.mb-0 Es la tradicional relacionada con los informes, se aconseja a que se presente lo estrictamente necesario con una secuencia lógica sin incurrir en repeticiones, citando las tablas como referencia y sustento a la descripción.
           div(titulo="Tabular (cuadro estadístico)")
-            p.mb-4 Son los datos organizados recopilados técnicamente y dispuestos de acuerdo con las categorías definidas previamente.
-            p.mb-0 Aunque generalmente son de un gran tamaño, la acción con ellos es sintetizarlos para mostrarlos de acuerdo con el interés de quien los recopila; los datos muestran la frecuencia, relaciones, contrastes, variaciones y tendencias presentándolos sistemáticamente y agrupados, utilizando tablas que son auto explicativas, es decir que el lector no acuda al texto para conocer de qué trata. 
+            p.mb-4 Son los datos organizados, recopilados técnicamente y dispuestos de acuerdo con las categorías definidas previamente.
+            p.mb-0 Aunque generalmente son de un gran tamaño, la acción con ellos es sintetizarlos para mostrarlos de acuerdo con el interés de quien los recopila; los datos muestran la frecuencia, relaciones, contrastes, variaciones y tendencias, presentándolos sistemáticamente y agrupados, utilizando tablas que son autoexplicativas, es decir que el lector no acuda al texto para conocer de qué trata. 
           div(titulo="Gráfica")
             p.mb-0 Un tipo de representación de datos, generalmente cuantitativos, mediante recursos visuales (líneas, vectores, superficies o símbolos), para que se manifieste visualmente la relación matemática o correlación estadística que guardan entre sí.
       .col-lg-6.col-8.d-none.d-lg-block
@@ -491,7 +491,7 @@
             .p-0 Título que refleje en qué consiste el contenido.
           li.mb-2
             i.fas.fa-location-arrow
-            .p-0 El tiempo
+            .p-0 El tiempo.
           li.mb-2
             i.fas.fa-location-arrow
             .p-0 Fecha.
@@ -513,8 +513,8 @@
       
     p.mb-5 Por ejemplo: la empresa XY de viajes y turismo, presenta a continuación el comportamiento y cumplimiento de sus trabajadores referente al Código de Ética:
 
-    .fondo4.p-4.mb-5      
-      SlyderA(tipo="b")
+    .fondo4.p-4.mb-5.p-lg-3.p-0      
+      SlyderA.p-lg-3.p-0(tipo="b")
         .row.justify-content-center.mb-0.pt-4
           .col-lg-5.col-10.mb-lg-0.mb-3
             h4.mb-lg-5.mb-4 Referentes utilizados
@@ -550,22 +550,22 @@
 
           .col-lg-7.col-12                  
             img.mb-0(src="@/assets/curso/tema2/img34.png")  
-        .row.justify-content-center.mb-0.pt-4
-          .col-lg-5.col-10.mb-lg-0.mb-3
+        .row.justify-content-center.mb-0.pt-4.p-lg-3.p-0
+          .col-lg-5.col-10.mb-lg-0.mb-3.p-lg-3.p-0
             h4.mb-lg-5.mb-4 Datos utilizados
             p.mb-4 Mecanismos para verificar el cumplimiento del código de ética:            
             .tabla-a.mb-0(style="min-width: 0px; ")            
-              table(style="min-width: 0px; ")            
+              table(style="min-width: 400px; ")            
                 thead(style="border-top: 0px solid;")
                   tr.cabecara-tabla
                     th.text-white(colspan=4) Manejos indebidos comparativo 2014 y 2015                    
                     
                 tbody
                   tr(style="background-color: #f8f8f8")                
-                    td 
-                    td 2014
-                    td 2015
-                    td Variación
+                    td(style="min: 100px; ") 
+                    td(style="min: 100px; ")  2014
+                    td(style="min: 100px; ")  2015
+                    td(style="min: 100px; ")  Variación
                   tr
                     td Valor
                     td 313.558.490

@@ -71,7 +71,7 @@
                 .p-0 Número de turistas por nacionalidad. 
               li.mb-1
                 i.fas.fa-location-arrow
-                .p-0 Paralelo:  evaluación de lo ejecutado frente a los planeado
+                .p-0 Paralelo:  evaluación de lo ejecutado frente a lo planeado.
               li.mb-0
                 i.fas.fa-location-arrow
                 .p-0 Recomendaciones o acciones de mejora para que en próximos servicios no se replique situaciones problema.
@@ -121,16 +121,16 @@
               .p-0 Detalles del servicio: fecha, # de turistas por nacionalidad. 
             li.mb-2
               i.fas.fa-location-arrow
-              .p-0 Identificación del equipo o situación (médica, emergencia, incumplimiento)
+              .p-0 Identificación del equipo o situación (médica, emergencia, incumplimiento).
             li.mb-2
               i.fas.fa-location-arrow
-              .p-0 Una imagen de los sucedidos
+              .p-0 Una imagen de los sucedidos.
             li.mb-2
               i.fas.fa-location-arrow
-              .p-0 Posibles riesgos de no atender la novedad
+              .p-0 Posibles riesgos de no atender la novedad.
             li.mb-0
               i.fas.fa-location-arrow
-              .p-0 Sugerencia de cómo tratar la novedad
+              .p-0 Sugerencia de cómo tratar la novedad.
           
     p.mb-4.text-center A continuación, se muestra un ejemplo del formato de novedades, ver figura 4.
 

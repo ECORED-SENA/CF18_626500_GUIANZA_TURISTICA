@@ -31,7 +31,7 @@
       .row.justify-content-center.align-items-center.mb-5 
         .col-lg-10.col-12
           .cajon.color-primario.p-4.mb-0
-              p.mb-0 De acuerdo con la Norma Técnica NTC-ISO Colombiana 9000, Sistemas De Gestión De La Calidad, la mejora continua es una parte de la gestión de la calidad, está orientada a mejorar la capacidad para el cumplimiento de los requisitos de calidad, los cuales pueden estar relacionados con la eficacia, eficiencia o la trazabilidad. La mejora continua es un proceso constante en la búsqueda para mejorar la capacidad de respuesta a los requisitos, esta búsqueda puede estar direccionada por lineamientos de la dirección, por necesidades de los clientes o la misma organización, y también puede ser guiada por eventualidades o hallazgos en una auditoría, por tanto, como respuesta conduce a una acción correctiva o preventiva. (ISO, 2021)
+              p.mb-0 De acuerdo con la Norma Técnica NTC-ISO Colombiana 9000, Sistemas De Gestión De La Calidad, la mejora continua es una parte de la gestión de la calidad, está orientada a mejorar la capacidad para el cumplimiento de los requisitos de calidad, los cuales pueden estar relacionados con la eficacia, eficiencia o la trazabilidad. La mejora continua es un proceso constante en la búsqueda para mejorar la capacidad de respuesta a los requisitos, esta búsqueda puede estar direccionada por lineamientos de la dirección, por necesidades de los clientes o la misma organización, y también puede ser guiada por eventualidades o hallazgos en una auditoría, por tanto, como respuesta conduce a una acción correctiva o preventiva. (ISO, 2021).
 
 
       .row.justify-content-center.align-items-center.mb-5 
@@ -134,7 +134,7 @@
               p.mb-0 Fomentar el desarrollo de los empleados.
           
     p.mb-5 Las normas ISO son documentos que especifican requerimientos que pueden ser empleados en organizaciones para garantizar que los productos y servicios ofrecidos por dichas organizaciones cumplen con su objetivo. Para el año 2021 la ISO (<i>International Organization for Standardization</i>), publicó alrededor de 19.500 normas internacionales que se pueden obtener desde la página oficial de ISO (ISO, 2021).
-    p.mb-5 En los negocios, los estándares ISO hacen posible que se:
+    p.mb-5 En los negocios, los estándares ISO hacen posible que:
 
     .row.justify-content-center.mb-5
       .col-lg-3.col-8.d-flex

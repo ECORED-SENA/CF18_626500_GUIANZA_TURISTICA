@@ -52,7 +52,7 @@
               .p-0 Restricciones de tiempo.
             li.mb-1
               i.fas.fa-location-arrow
-              .p-0 Confianza
+              .p-0 Confianza.
             li.mb-1
               i.fas.fa-location-arrow
               .p-0 Calidad.
