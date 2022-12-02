@@ -385,7 +385,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Daniel Mutis',
         cargo: 'Validación de Maquetación',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
