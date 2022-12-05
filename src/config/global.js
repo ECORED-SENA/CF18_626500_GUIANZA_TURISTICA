@@ -379,6 +379,12 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
+        nombre: 'Jhon Jairo Rodriguez',
+        cargo: 'Corrector de estilo',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
         nombre: 'Edgar Mauricio Cortés García',
         cargo: 'Desarrollo front-end',
         centro:
