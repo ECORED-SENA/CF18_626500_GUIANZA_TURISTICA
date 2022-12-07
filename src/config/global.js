@@ -339,7 +339,7 @@ export default {
       },
       {
         nombre: 'Gustavo Santis Mancipe',
-        cargo: 'Experta temática',
+        cargo: 'Diseñador Instruccional',
         centro: 'Centro Nacional de Hotelería - Regional Distrito Capital',
       },
       {
@@ -354,7 +354,7 @@ export default {
         centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
       },
       {
-        nombre: '',
+        nombre: 'Jhon Jairo Rodriguez',
         cargo: 'Corrector de estilo',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
